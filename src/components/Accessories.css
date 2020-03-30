@@ -1,0 +1,59 @@
+.home .heading {
+    display:flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50px;    
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.PS4Controller {
+    margin-left: 450px;
+    margin-bottom: 40px;
+    background-color: white;
+    justify-content: space-around;
+    padding: 15px 30px;
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    border-color: rgb(76, 187, 113);
+    border-width: 5px;   
+}
+
+.PS5Controller {
+    margin-left: 450px;
+    background-color: white;
+    padding: 15px 30px;
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    border-color: rgb(76, 187, 113);
+    border-width: 5px;   
+}
+
+.XBOXCONTROLLER {
+    margin-left: 450px;
+    background-color: white;
+    padding: 20px 45px;
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    border-color: rgb(76, 187, 113);
+    border-width: 5px;
+}
+
+.XBOXONECONTROLLER {
+    margin-left: 450px;
+    background-color: white;
+    padding: 15px 30px;
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    border-color: rgb(76, 187, 113);
+    border-width: 5px;   
+}
+

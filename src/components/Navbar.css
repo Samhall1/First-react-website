@@ -1,0 +1,32 @@
+nav {
+    background-color: rgb(76, 187, 113);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    font-family: 'Lobster Two', cursive;
+    font-size: larger;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    list-style: none; 
+    padding: 5px 10px;
+}
+
+nav li a {
+        text-decoration: none;
+}
+
+.title {
+   padding-left: 150px;
+}
+
+.buttons {
+    padding-top: 15px;
+    font-size: 25px;
+    font-weight: lighter;
+}
